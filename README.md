@@ -4,7 +4,13 @@
 
 ## 自我介紹
 我是小智
-
+```C
+#include<stdio.h>
+int main()
+{
+printf("hello world"\n);
+}
+```
 ## 興趣
 打爆每一顆球
 
