@@ -1,4 +1,4 @@
-# currry11111.github.io
+# curry11111.github.io
 
 這是我的第1個網站，也是我的第1個網頁 Ya!!!
 
